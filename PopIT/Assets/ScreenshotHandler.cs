@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ScreenshotHandler : MonoBehaviour
 {
+    // Скрипт сохранения текстуры
     private static ScreenshotHandler instance;
     private Camera myCamera;
     private bool takeScreenshot;

@@ -13,17 +13,11 @@ public class ChangeColor : MonoBehaviour
         myColor = CreateParticle.objColor;
         var objEmit = GetComponent<ObiEmitter>();
         // objEmit.GetComponent<ObiParticleRenderer>().particleColor = new Color(Random.value, Random.value, Random.value, 1);
-        objEmit.transform.eulerAngles = new Vector3(0, RandomNumber(), 0);
+        objEmit.transform.eulerAngles = new Vector3(CreateParticle.direction.x, CreateParticle.direction.y, 0);
         objEmit.GetComponent<ObiParticleRenderer>().particleColor = myColor;
-        // Invoke("Kill", 5);
     }
 
-    public void Kill()
-    {
-        objEmit.KillAll();
-    }
-
-    private float RandomNumber() // Просто рандом появления сфер
+    private float RandomNumber() // Просто рандом
     {
         return Random.Range(0, 360);
     }

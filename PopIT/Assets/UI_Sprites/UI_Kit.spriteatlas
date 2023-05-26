@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Kit
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 721af22161764134aae7e9602d76c201, type: 3}
+    - {fileID: 21300000, guid: a5e8b11220dc56e4892f33a6b94e3d6c, type: 3}
+    - {fileID: 21300000, guid: aa1cb1c53771e3a4aa2c73f70cbd06c6, type: 3}
+    - {fileID: 21300000, guid: d7a58978ec796d242b7fdbb12cabbc61, type: 3}
+    - {fileID: 21300000, guid: de3d807a02baa154280bb1f0a49fc86d, type: 3}
+    - {fileID: 21300000, guid: 9743c7f5b89f0404aa86120c0fa15150, type: 3}
+    - {fileID: 21300000, guid: 985e5fe903e880b458eb537b9942ed49, type: 3}
+    - {fileID: 21300000, guid: 47564f34778280648a643fc20818e422, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 721af22161764134aae7e9602d76c201, type: 3}
+  - {fileID: 21300000, guid: a5e8b11220dc56e4892f33a6b94e3d6c, type: 3}
+  - {fileID: 21300000, guid: 47564f34778280648a643fc20818e422, type: 3}
+  - {fileID: 21300000, guid: aa1cb1c53771e3a4aa2c73f70cbd06c6, type: 3}
+  - {fileID: 21300000, guid: 9743c7f5b89f0404aa86120c0fa15150, type: 3}
+  - {fileID: 21300000, guid: d7a58978ec796d242b7fdbb12cabbc61, type: 3}
+  - {fileID: 21300000, guid: 985e5fe903e880b458eb537b9942ed49, type: 3}
+  - {fileID: 21300000, guid: de3d807a02baa154280bb1f0a49fc86d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Settings
+  - Volume_0
+  - Right
+  - Volume_1
+  - Exit
+  - Home
+  - Left
+  - Restart
+  m_RenderDataMap: {}
+  m_Tag: UI_Kit
+  m_IsVariant: 0

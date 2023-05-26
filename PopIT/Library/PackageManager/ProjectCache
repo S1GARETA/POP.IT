@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638182754839520739
-    m_Hash: 2563021544
+      ticks: 638201795397529540
+    m_Hash: 1629831441
   m_LockFileStatus:
     m_FilePath: E:/Study/NewTime/Unity Project/POP.IT/PopIT/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638182754839811004
-    m_Hash: 4093896272
+      ticks: 638201795397891772
+    m_Hash: 1505611798
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,58 @@ m_LocalPackages:
 m_ProjectPath: E:/Study/NewTime/Unity Project/POP.IT/PopIT/Packages
 m_EditorVersion: 2021.3.16f1 (4016570cf34f)
 m_ResolvedPackages:
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: E:\Study\NewTime\Unity Project\POP.IT\PopIT\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.17.7
   testable: 0
   isDirectDependency: 1
@@ -3195,12 +3247,14 @@ m_ResolvedPackages:
     - 1.7.1
     - 1.8.1
     - 1.8.2
+    - 1.9.0
     compatible:
     - 1.6.0
     - 1.7.0
     - 1.7.1
     - 1.8.1
     - 1.8.2
+    - 1.9.0
     verified: 1.6.0
   dependencies:
   - name: com.unity.modules.unitywebrequest
@@ -3340,10 +3394,12 @@ m_ResolvedPackages:
     - 3.0.2
     - 3.1.0
     - 3.2.0
+    - 3.2.1
     compatible:
     - 3.0.2
     - 3.1.0
     - 3.2.0
+    - 3.2.1
     verified: 3.0.2
   dependencies: []
   resolvedDependencies: []
