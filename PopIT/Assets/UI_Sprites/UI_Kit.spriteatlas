@@ -37,7 +37,6 @@ SpriteAtlas:
     - {fileID: 21300000, guid: aa1cb1c53771e3a4aa2c73f70cbd06c6, type: 3}
     - {fileID: 21300000, guid: d7a58978ec796d242b7fdbb12cabbc61, type: 3}
     - {fileID: 21300000, guid: de3d807a02baa154280bb1f0a49fc86d, type: 3}
-    - {fileID: 21300000, guid: 9743c7f5b89f0404aa86120c0fa15150, type: 3}
     - {fileID: 21300000, guid: 985e5fe903e880b458eb537b9942ed49, type: 3}
     - {fileID: 21300000, guid: 47564f34778280648a643fc20818e422, type: 3}
     bindAsDefault: 1
@@ -49,7 +48,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: a5e8b11220dc56e4892f33a6b94e3d6c, type: 3}
   - {fileID: 21300000, guid: 47564f34778280648a643fc20818e422, type: 3}
   - {fileID: 21300000, guid: aa1cb1c53771e3a4aa2c73f70cbd06c6, type: 3}
-  - {fileID: 21300000, guid: 9743c7f5b89f0404aa86120c0fa15150, type: 3}
   - {fileID: 21300000, guid: d7a58978ec796d242b7fdbb12cabbc61, type: 3}
   - {fileID: 21300000, guid: 985e5fe903e880b458eb537b9942ed49, type: 3}
   - {fileID: 21300000, guid: de3d807a02baa154280bb1f0a49fc86d, type: 3}
@@ -58,7 +56,6 @@ SpriteAtlas:
   - Volume_0
   - Right
   - Volume_1
-  - Exit
   - Home
   - Left
   - Restart
